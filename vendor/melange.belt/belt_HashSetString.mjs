@@ -2,7 +2,7 @@
 
 import * as Belt__Belt_internalBucketsType from "./belt_internalBucketsType.mjs";
 import * as Belt__Belt_internalSetBuckets from "./belt_internalSetBuckets.mjs";
-import * as Caml_hash_primitive from "melange.js/caml_hash_primitive.mjs";
+import * as Caml_hash_primitive from "../melange.js/caml_hash_primitive.mjs";
 
 function copyBucket(h_buckets, ndata_tail, _old_bucket) {
   while(true) {

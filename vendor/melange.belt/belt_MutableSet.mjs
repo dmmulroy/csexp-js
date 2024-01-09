@@ -2,8 +2,8 @@
 
 import * as Belt__Belt_SortArray from "./belt_SortArray.mjs";
 import * as Belt__Belt_internalAVLset from "./belt_internalAVLset.mjs";
-import * as Caml_option from "melange.js/caml_option.mjs";
-import * as Curry from "melange.js/curry.mjs";
+import * as Caml_option from "../melange.js/caml_option.mjs";
+import * as Curry from "../melange.js/curry.mjs";
 
 function remove0(nt, x, cmp) {
   var k = nt.v;

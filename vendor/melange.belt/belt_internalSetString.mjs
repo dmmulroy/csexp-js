@@ -2,7 +2,7 @@
 
 import * as Belt__Belt_SortArrayString from "./belt_SortArrayString.mjs";
 import * as Belt__Belt_internalAVLset from "./belt_internalAVLset.mjs";
-import * as Caml_option from "melange.js/caml_option.mjs";
+import * as Caml_option from "../melange.js/caml_option.mjs";
 
 function has(_t, x) {
   while(true) {

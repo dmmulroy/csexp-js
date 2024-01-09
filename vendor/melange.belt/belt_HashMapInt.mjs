@@ -2,8 +2,8 @@
 
 import * as Belt__Belt_internalBuckets from "./belt_internalBuckets.mjs";
 import * as Belt__Belt_internalBucketsType from "./belt_internalBucketsType.mjs";
-import * as Caml_hash_primitive from "melange.js/caml_hash_primitive.mjs";
-import * as Caml_option from "melange.js/caml_option.mjs";
+import * as Caml_hash_primitive from "../melange.js/caml_hash_primitive.mjs";
+import * as Caml_option from "../melange.js/caml_option.mjs";
 
 function copyBucketReHash(h_buckets, ndata_tail, _old_bucket) {
   while(true) {

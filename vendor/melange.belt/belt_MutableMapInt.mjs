@@ -2,8 +2,8 @@
 
 import * as Belt__Belt_internalAVLtree from "./belt_internalAVLtree.mjs";
 import * as Belt__Belt_internalMapInt from "./belt_internalMapInt.mjs";
-import * as Caml_option from "melange.js/caml_option.mjs";
-import * as Curry from "melange.js/curry.mjs";
+import * as Caml_option from "../melange.js/caml_option.mjs";
+import * as Curry from "../melange.js/curry.mjs";
 
 function make(param) {
   return {

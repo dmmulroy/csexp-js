@@ -2,9 +2,9 @@
 
 import * as Belt__Belt_SortArray from "./belt_SortArray.mjs";
 import * as Belt__Belt_internalAVLtree from "./belt_internalAVLtree.mjs";
-import * as Caml from "melange.js/caml.mjs";
-import * as Caml_option from "melange.js/caml_option.mjs";
-import * as Curry from "melange.js/curry.mjs";
+import * as Caml from "../melange.js/caml.mjs";
+import * as Caml_option from "../melange.js/caml_option.mjs";
+import * as Curry from "../melange.js/curry.mjs";
 
 function add(t, x, data) {
   if (t === undefined) {

@@ -2,7 +2,7 @@
 
 import * as Belt__Belt_internalAVLset from "./belt_internalAVLset.mjs";
 import * as Belt__Belt_internalSetString from "./belt_internalSetString.mjs";
-import * as Caml_option from "melange.js/caml_option.mjs";
+import * as Caml_option from "../melange.js/caml_option.mjs";
 
 function add(t, x) {
   if (t === undefined) {

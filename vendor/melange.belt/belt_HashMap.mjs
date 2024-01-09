@@ -2,7 +2,7 @@
 
 import * as Belt__Belt_internalBuckets from "./belt_internalBuckets.mjs";
 import * as Belt__Belt_internalBucketsType from "./belt_internalBucketsType.mjs";
-import * as Caml_option from "melange.js/caml_option.mjs";
+import * as Caml_option from "../melange.js/caml_option.mjs";
 
 function size(h) {
   return h.size;
