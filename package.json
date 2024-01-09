@@ -2,10 +2,14 @@
   "name": "csexp-js",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "index.mjs",
+  "type": "module",
+  "exports": "./index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "github.com/dmmulroy/csexp-js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Dillon Mulroy <dillon.mulroy@gmail.com>",
+  "license": "MIT",
+  "scripts": {}
 }
