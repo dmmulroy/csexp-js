@@ -4,4 +4,4 @@ const sexp = "(name foobar)";
 
 console.log(sexp);
 
-// console.log(Csexp.parse_string(sexp));
+console.log(Csexp.parse_string(sexp));
